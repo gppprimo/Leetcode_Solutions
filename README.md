@@ -21,3 +21,4 @@ Challenge | Lang | Solution
 |[Remove element](https://leetcode.com/problems/remove-element/)| C++ | [remove_element.cpp](https://github.com/gppprimo/Leetcode_Solutions/blob/main/remove_element.cpp)|
 |[Implement strstr](https://leetcode.com/problems/implement-strstr/)| C++ | [implement_strstr.cpp](https://github.com/gppprimo/Leetcode_Solutions/blob/main/implement_strstr.cpp)|
 |[Search insert position](https://leetcode.com/problems/search-insert-position/)| C++ | [search_insert_position.cpp](https://github.com/gppprimo/Leetcode_Solutions/blob/main/search_insert_position.cpp)|
+|[Pow(x,n)](https://leetcode.com/problems/powx-n/)| C++ | [powx_n.cpp](https://github.com/gppprimo/Leetcode_Solutions/blob/main/powx_n.cpp)|
