@@ -20,3 +20,4 @@ Challenge | Lang | Solution
 |[Remove duplicates from sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| C++ | [remove_duplicates_from_sorted_array.cpp](https://github.com/gppprimo/Leetcode_Solutions/blob/main/remove_duplicates_from_sorted_array.cpp)|
 |[Remove element](https://leetcode.com/problems/remove-element/)| C++ | [remove_element.cpp](https://github.com/gppprimo/Leetcode_Solutions/blob/main/remove_element.cpp)|
 |[Implement strstr](https://leetcode.com/problems/implement-strstr/)| C++ | [implement_strstr.cpp](https://github.com/gppprimo/Leetcode_Solutions/blob/main/implement_strstr.cpp)|
+|[Search insert position](https://leetcode.com/problems/search-insert-position/)| C++ | [search_insert_position.cpp](https://github.com/gppprimo/Leetcode_Solutions/blob/main/search_insert_position.cpp)|
