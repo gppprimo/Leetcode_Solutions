@@ -27,3 +27,6 @@ Challenge | Lang | Solution
 |[Missing number](https://leetcode.com/problems/missing-number/)| C++ | [missing_number.cpp](https://github.com/gppprimo/Leetcode_Solutions/blob/main/missing_number.cpp)|
 |[Range sum query immutable](https://leetcode.com/problems/range-sum-query-immutable/)| C++ | [range_sum_query_immutable.cpp](https://github.com/gppprimo/Leetcode_Solutions/blob/main/range_sum_query_immutable.cpp)|
 |[Longest palindrome](https://leetcode.com/problems/longest-palindrome/)| C++ | [longest_palindrome.cpp](https://github.com/gppprimo/Leetcode_Solutions/blob/main/longest_palindrome.cpp)|
+|[Sort characters by frequency](https://leetcode.com/problems/sort-characters-by-frequency/)| C++ | [sort_characters_by_frequency.cpp](https://github.com/gppprimo/Leetcode_Solutions/blob/main/sort_characters_by_frequency.cpp)|
+|[Base 7](https://leetcode.com/problems/base-7/)| C++ | [base_7.cpp](https://github.com/gppprimo/Leetcode_Solutions/blob/main/base_7.cpp)|
+|[Fibonacci number](https://leetcode.com/problems/fibonacci-number/)| C++ | [fibonacci_number.cpp](https://github.com/gppprimo/Leetcode_Solutions/blob/main/fibonacci_number.cpp)|
