@@ -18,3 +18,5 @@ Challenge | Lang | Solution
 |[Container with most water](https://leetcode.com/problems/container-with-most-water/)| C++ | [container_with_most_water.cpp](https://github.com/gppprimo/Leetcode_Solutions/blob/main/container_with_most_water.cpp)|
 |[Roman to integer](https://leetcode.com/problems/roman-to-integer/)| C++ | [roman_to_integer.cpp](https://github.com/gppprimo/Leetcode_Solutions/blob/main/roman_to_integer.cpp)|
 |[Remove duplicates from sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| C++ | [remove_duplicates_from_sorted_array.cpp](https://github.com/gppprimo/Leetcode_Solutions/blob/main/remove_duplicates_from_sorted_array.cpp)|
+|[Remove element](https://leetcode.com/problems/remove-element/)| C++ | [remove_element.cpp](https://github.com/gppprimo/Leetcode_Solutions/blob/main/remove_element.cpp)|
+|[Implement strstr](https://leetcode.com/problems/implement-strstr/)| C++ | [implement_strstr.cpp](https://github.com/gppprimo/Leetcode_Solutions/blob/main/implement_strstr.cpp)|
