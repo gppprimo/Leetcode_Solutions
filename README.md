@@ -23,3 +23,7 @@ Challenge | Lang | Solution
 |[Search insert position](https://leetcode.com/problems/search-insert-position/)| C++ | [search_insert_position.cpp](https://github.com/gppprimo/Leetcode_Solutions/blob/main/search_insert_position.cpp)|
 |[Pow(x,n)](https://leetcode.com/problems/powx-n/)| C++ | [powx_n.cpp](https://github.com/gppprimo/Leetcode_Solutions/blob/main/powx_n.cpp)|
 |[Reverse linked list](https://leetcode.com/problems/reverse-linked-list/)| C++ | [reverse_linked_list.cpp](https://github.com/gppprimo/Leetcode_Solutions/blob/main/reverse_linked_list.cpp)|
+|[Palindrome linked list](https://leetcode.com/problems/palindrome-linked-list/)| C++ | [palindrome_linked_list.cpp](https://github.com/gppprimo/Leetcode_Solutions/blob/main/palindrome_linked_list.cpp)|
+|[Missing number](https://leetcode.com/problems/missing-number/)| C++ | [missing_number.cpp](https://github.com/gppprimo/Leetcode_Solutions/blob/main/missing_number.cpp)|
+|[Range sum query immutable](https://leetcode.com/problems/range-sum-query-immutable/)| C++ | [range_sum_query_immutable.cpp](https://github.com/gppprimo/Leetcode_Solutions/blob/main/range_sum_query_immutable.cpp)|
+|[Longest palindrome](https://leetcode.com/problems/longest-palindrome/)| C++ | [longest_palindrome.cpp](https://github.com/gppprimo/Leetcode_Solutions/blob/main/longest_palindrome.cpp)|
