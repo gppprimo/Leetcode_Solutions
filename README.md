@@ -14,4 +14,4 @@ Challenge | Lang | Solution
 |[Add two numbers](https://leetcode.com/problems/add-two-numbers/)| C++ | [add_two_numbers.cpp](https://github.com/gppprimo/Leetcode_Solutions/blob/main/add_two_numbers.cpp)|
 |[Longest substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| C++ | [longest_substring_without_repeating_characters.cpp](https://github.com/gppprimo/Leetcode_Solutions/blob/main/longest_substring_without_repeating_characters.cpp)|
 |[Median of two sorted array](https://leetcode.com/problems/median-of-two-sorted-arrays/)| C++ | [median_of_two_sorted_array.cpp](https://github.com/gppprimo/Leetcode_Solutions/blob/main/median_of_two_sorted_array.cpp)|
-
+|[Palindrome number](https://leetcode.com/problems/palindrome-number/)| C++ | [palindrome_number.cpp](https://github.com/gppprimo/Leetcode_Solutions/blob/main/palindrome_number.cpp)|
