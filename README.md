@@ -30,3 +30,6 @@ Challenge | Lang | Solution
 |[Sort characters by frequency](https://leetcode.com/problems/sort-characters-by-frequency/)| C++ | [sort_characters_by_frequency.cpp](https://github.com/gppprimo/Leetcode_Solutions/blob/main/sort_characters_by_frequency.cpp)|
 |[Base 7](https://leetcode.com/problems/base-7/)| C++ | [base_7.cpp](https://github.com/gppprimo/Leetcode_Solutions/blob/main/base_7.cpp)|
 |[Fibonacci number](https://leetcode.com/problems/fibonacci-number/)| C++ | [fibonacci_number.cpp](https://github.com/gppprimo/Leetcode_Solutions/blob/main/fibonacci_number.cpp)|
+|[Map sum pairs](https://leetcode.com/problems/map-sum-pairs/)| C++ | [map_sum_pairs.cpp](https://github.com/gppprimo/Leetcode_Solutions/blob/main/map_sum_pairs.cpp)|
+|[To lower case](https://leetcode.com/problems/to-lower-case/)| C++ | [to_lower_case.cpp](https://github.com/gppprimo/Leetcode_Solutions/blob/main/to_lower_case.cpp)|
+|[Unique morse code words](https://leetcode.com/problems/unique-morse-code-words/)| C++ | [unique_morse_code_words.cpp](https://github.com/gppprimo/Leetcode_Solutions/blob/main/unique_morse_code_words.cpp)|
